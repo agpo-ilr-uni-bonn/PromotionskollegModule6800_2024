@@ -22,7 +22,7 @@ Please prepare a 3 min pitch of your research project. The pitch should cover th
 4) What is the major challenge you are currently facing?
 5) Are you plan to use ML? If yes: Why and how? If no: What limitation do you see?
 
-We are planning to do the pitches Wednesday/Thursday in the after the Q&A session, as well Friday morning. 
+We are planning to do the pitches Wednesday/Thursday after the Q&A session, as well Friday morning. 
 
 ### Links to Intro material
 
