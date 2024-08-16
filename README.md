@@ -1,6 +1,6 @@
 # PromotionskollegModule6800_2024
 Course material and links for Promotionskolleg Module 6800: Machine learning in applied economic analysis.
-September 4-8, 2023 (in presence in Bonn, Nussallee 19, seminar room)
+September 2-6, 2024 (in presence in Bonn, Nussallee 19, seminar room)
 [Note: Slides and videos related to an earlier online version of the course can be found under https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2021]
 
 ### Instructors 
@@ -26,9 +26,9 @@ We are planning to do the pitches Wednesday/Thursday after the Q&A session, as w
 
 ### Links to Intro material
 
-- [Intro slides](https://docs.google.com/presentation/d/1GHHBYM8lXTJg5A9hhl9do5f5yCH6yC7fwGK3FBLcnxE/edit?usp=sharing)
+- [Intro slides](https://docs.google.com/presentation/d/1aVcb1Z79EfP40OSRUQVVPKAs6yQMU1CUst0kM4mBZ_o/edit?usp=sharing)
 - [Intro jupyter notebook](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2023/blob/master/labIntro.ipynb)
-
+<!--
 ### Links to Day 1 material 
 
 - [Day 1 slides](https://docs.google.com/presentation/d/1NZQ_QTfO5KKz8MtXEjkoMIIl6OK09uHQkqwcMG9Pk4s/edit?usp=sharing)
@@ -57,3 +57,4 @@ We are planning to do the pitches Wednesday/Thursday after the Q&A session, as w
 ### Links to Day 5 material 
 - [Day 5 slides - ML and causal analysis (same as day 4b)](https://docs.google.com/presentation/d/1p7RcfS5FyqO3fwhNfUmSvP7RyfH2ebHcsejXDYhybmE/edit?usp=sharing)
 - [Day 4-5 jupyter notebook for lecture and lab](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2023/blob/master/6800_Day4-5.ipynb)
+-->
