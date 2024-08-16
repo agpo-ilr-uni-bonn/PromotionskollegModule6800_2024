@@ -27,7 +27,7 @@ We are planning to do the pitches Wednesday/Thursday after the Q&A session, as w
 ### Links to Intro material
 
 - [Intro slides](https://docs.google.com/presentation/d/1aVcb1Z79EfP40OSRUQVVPKAs6yQMU1CUst0kM4mBZ_o/edit?usp=sharing)
-- [Intro jupyter notebook](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2023/blob/master/labIntro.ipynb)
+- [Intro jupyter notebook](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2024/blob/master/labIntro.ipynb)
 <!--
 ### Links to Day 1 material 
 
