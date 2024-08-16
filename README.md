@@ -6,7 +6,9 @@ September 4-8, 2023 (in presence in Bonn, Nussallee 19, seminar room)
 ### Instructors 
 
 Kathy Baylis - University of California, Santa Barbara, USA
+
 Thomas Heckelei - University of Bonn, Germany
+
 Hugo Storm - University of Bonn, Germany
 
 
