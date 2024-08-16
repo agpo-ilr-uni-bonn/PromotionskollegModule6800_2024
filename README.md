@@ -1,15 +1,15 @@
-# PromotionskollegModule6800_2023
+# PromotionskollegModule6800_2024
 Course material and links for Promotionskolleg Module 6800: Machine learning in applied economic analysis.
 September 4-8, 2023 (in presence in Bonn, Nussallee 19, seminar room)
 [Note: Slides and videos related to an earlier online version of the course can be found under https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2021]
 
 ### Instructors 
 
+Kathy Baylis - University of California, Santa Barbara, USA
 Thomas Heckelei - University of Bonn, Germany
-
 Hugo Storm - University of Bonn, Germany
 
-[Kathy Baylis - University of California, Santa Barbara, USA]
+
 
 
 ### Research pitch 
