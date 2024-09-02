@@ -43,7 +43,7 @@ We are planning to do the pitches Wednesday/Thursday after the Q&A session, as w
 
 ### Links to Day 3 material 
 <!--
-- [Day 3 slides - Neural Networks]()
+- [Day 3 slides - Neural Networks](https://docs.google.com/presentation/d/1u-TV-c1oHGeypnGzNFQ2dEG80hgdmo1loV-_q8QEIHU/edit?usp=sharing)
 - [Day 3 jupyter notebook for lecture and lab](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2024/blob/master/6800_Day3.ipynb)
 
 -->
