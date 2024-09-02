@@ -30,10 +30,10 @@ We are planning to do the pitches Wednesday/Thursday after the Q&A session, as w
 - [Intro jupyter notebook](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2024/blob/master/labIntro.ipynb)
 
 ### Links to Day 1 material 
-<!--
+
 - [Day 1 slides](https://docs.google.com/presentation/d/1UYPwY2hDg79Sx7P2cIcGaPx2HlO5oUQBismQ-1YZrgE/edit?usp=sharing)
 - [Day 1 jupyter notebook for lecture and lab](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2024/blob/master/6800_Day1.ipynb)
--->
+
 
 ### Links to Day 2 material 
 <!--
